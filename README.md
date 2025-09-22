@@ -24,7 +24,7 @@ Sorted list of scores
 
 Clone the repository and navigate into the folder:
 
-git clone https://github.com/yourusername/score-tracker.git
+git clone https://github.com/Anthonytiwari/score-tracker.git
 cd score-tracker
 
 ▶️ Usage
